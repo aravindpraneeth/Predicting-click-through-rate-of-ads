@@ -12,11 +12,18 @@ Step4: Go to spark shell by command 'spark-shell'
 step5: Execute the .scala files by following commands
 
 :load linregwithpca.scala
+
 :load linregwithoutpca.scala
+
 :load decisiontreewithpca.scala
+
 :load decisiontreewithoutpca.scala
+
 :load randomforestwithpca.scala
+
 :load randomforestwithoutpca.scala
+
 :load boostingwithpca.scala
+
 :load boostingwithoutpca.scala
 
